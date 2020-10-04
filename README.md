@@ -10,10 +10,12 @@
 
 </div>
 
+---
 ## 📋 Sobre:
 
 Desafio Digital Innovation One - Recriando o jogo da cobrinha com JavaScript (Instrutora Gabriela Pinheiro)
 
+---
 ## ⚙️ Tecnologias:
 
 Jogo recriado utilizando as seguintes tecnologias:
@@ -26,6 +28,7 @@ JavaScript
 
 Framework utilizado: Bootstrap
 
+---
 ## 🔧 Melhorias:
 
 ```
