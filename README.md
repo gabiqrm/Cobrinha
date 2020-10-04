@@ -28,7 +28,7 @@ Framework utilizado: Bootstrap
 
 ## 🔧 Melhorias:
 
-```python
+```
 Implementado os níveis de dificuldade;
 Pontuação do Jogador;
 Corrigido o bug que fazia a cobra sumir;
