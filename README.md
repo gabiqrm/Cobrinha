@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game 🐍
 
 <p align="center">
    <img src="public/image/logo.jpg" alt="SnakeGame"/>
@@ -10,11 +10,11 @@
 
 </div>
 
-# Sobre:
+## 📋 Sobre:
 
 Desafio Digital Innovation One - Recriando o jogo da cobrinha com JavaScript (Instrutora Gabriela Pinheiro)
 
-## Tecnologias:
+## ⚙️ Tecnologias:
 
 Jogo recriado utilizando as seguintes tecnologias:
 
@@ -26,7 +26,7 @@ JavaScript
 
 Framework utilizado: Bootstrap
 
-## Melhorias
+## 🔧 Melhorias:
 
 ```python
 Implementado os níveis de dificuldade;
@@ -35,3 +35,25 @@ Corrigido o bug que fazia a cobra sumir;
 As instruções de jogo;
 Estilização do site.
 ```
+## ⌨ Como Executar o Projeto:
+
+```bash
+# Clonar o repositório
+git clone https://github.com/gabiqrm/Cobrinha/
+
+# Entrar no diretório
+cd Cobrinha
+
+# Baixar as dependências
+npm i
+
+# Executar o servidor
+npm run dev
+```
+
+Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
+
+---
+
+
+Desenvolvido por Gabriela Queiroz ! 💜
