@@ -44,15 +44,6 @@ git clone https://github.com/gabiqrm/Cobrinha/
 # Entrar no diretório
 cd Cobrinha
 
-# Baixar as dependências
-npm i
-
-# Executar o servidor
-npm run dev
-```
-
-Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
-
 ---
 
 
