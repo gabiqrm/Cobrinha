@@ -35,16 +35,6 @@ Corrigido o bug que fazia a cobra sumir;
 As instruções de jogo;
 Estilização do site.
 ```
-## ⌨ Como Executar o Projeto:
-
-```bash
-# Clonar o repositório
-git clone https://github.com/gabiqrm/Cobrinha/
-
-# Entrar no diretório
-cd Cobrinha
-
----
 
 
 Desenvolvido por Gabriela Queiroz ! 💜
