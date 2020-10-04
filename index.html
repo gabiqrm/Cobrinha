@@ -1,15 +1,66 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width", initial-scale=1.0>
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <link rel="stylesheet" href="style.css">
-        <script defer src="script.js"></script>
+        <link rel="stylesheet" type="text/css" href="public/css/style.css">
+        <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+        <script defer src="Js/script.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="bootstrap/js/bootstrap.bundle.min.js">
+        <script src="bootstrap/js/bootstrap.min.js"></script>
         <title>Snake Game</title>
-    </head>
+    </head> 
     <body>
-        <h1>SNAKE GAME!</h1>
-        <canvas id="snake" width="512" height="512"></canvas>
+        <nav class="navbar navbar-expand-md navbar-light bg-info fixed-top">
+            
+            <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Snake Game</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="javascript:history.go()">Novo Jogo</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        <header>
+            <h1 class="text-danger">Snake Game!</h1>
+        </header>
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col col-3 justify-content-center">
+                    <div class="form-group">
+                        <label for="exampleFormControlSelect1"><b>Dificuldade</b></label>
+                        <select id="dificuldade"class="form-control" id="exampleFormControlSelect1">
+                            <option value="facil">Fácil</option>
+                            <option value="normal" selected>Normal</option>
+                            <option value="dificil">Difícil</option>
+                        </select>
+                        <p>Após selecionar a dificuldade clique em cima da área do jogo!</p>
+                    </div>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="inputGroup-sizing-default">Pontuação</span>
+                        </div>
+                        <input id="score" type="text" class="form-control" aria-label="Exemplo do tamanho do input" aria-describedby="inputGroup-sizing-default">
+                    </div>
+                </div>
+                <div class="col col-6 row justify-content-center">
+                    <canvas id="snake" width="512" height="512"></canvas>
+                </div>
+                <div class="col col-3 row justify-content-center">
+                    <ul class="list-group">
+                        <li class="list-group-item active">Instruções:</li>
+                        <li class="list-group-item">Ao selecionar a dificuldade clique sobre a área do jogo para ativar os comandos.</li>
+                        <li class="list-group-item">Utilize as setas do teclado para mover a cobra.</li>
+                        <li class="list-group-item">Para iniciar um novo jogo, clique na opção novo jogo na barra de navegação.</li>
+                        <li class="list-group-item">O objetivo é pegar a maior quantidade de frutas possível.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </body>
 </html>

@@ -7,3 +7,7 @@ body{
     flex-direction: column;
     color: rgb(44,139,44);
 }
+
+header {
+    padding-bottom: 25px;
+}
