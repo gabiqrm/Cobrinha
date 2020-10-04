@@ -1,3 +1,5 @@
+# Snake Game
+
 <p align="center">
    <img src="public/image/logo.jpg" alt="SnakeGame"/>
 </p>
@@ -8,11 +10,11 @@
 
 </div>
 
-# Snake Game
+# Sobre:
 
 Desafio Digital Innovation One - Recriando o jogo da cobrinha com JavaScript (Instrutora Gabriela Pinheiro)
 
-## Tecnologias
+## Tecnologias:
 
 Jogo recriado utilizando as seguintes tecnologias:
 
