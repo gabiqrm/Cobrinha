@@ -1,4 +1,7 @@
 # Snake Game 🐍
+https://gabiqrm.github.io/Cobrinha/
+
+---
 
 <p align="center">
    <img src="public/image/logo.jpg" alt="SnakeGame"/>
