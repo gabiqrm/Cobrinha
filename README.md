@@ -19,7 +19,8 @@ https://gabiqrm.github.io/Cobrinha/
 
 ## 📋 Sobre:
 
-Desafio Digital Innovation One - Recriando o jogo da cobrinha com JavaScript (Instrutora Gabriela Pinheiro)
+Jogo da cobrinha(Snake Game) recriado com JavaScript. 
+Foi construído a partir do desafio do curso de FullStack da Digital Innovation One com a instrutora Gabriela Pinheiro.
 
 ---
 ## ⚙️ Tecnologias:
