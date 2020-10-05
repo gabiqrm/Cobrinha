@@ -1,6 +1,4 @@
 # Snake Game 🐍
-https://gabiqrm.github.io/Cobrinha/
-
 ---
 
 <p align="center">
@@ -14,6 +12,11 @@ https://gabiqrm.github.io/Cobrinha/
 </div>
 
 ---
+## 🔎 Acesso Rápido:
+https://gabiqrm.github.io/Cobrinha/
+
+---
+
 ## 📋 Sobre:
 
 Desafio Digital Innovation One - Recriando o jogo da cobrinha com JavaScript (Instrutora Gabriela Pinheiro)
