@@ -1,5 +1,6 @@
 # Snake Game 🐍
 ---
+[![Generic badge](https://img.shields.io/badge/<Clique Aqui!>-<COLOR>.svg)](https://shields.io/)
 
 <p align="center">
    <img src="public/image/logo.jpg" alt="SnakeGame"/>
