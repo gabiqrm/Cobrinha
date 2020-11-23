@@ -58,26 +58,6 @@ $ cd Cobrinha
 ```
 3. Na pasta raiz, dê duplo clique no arquivo `index.html` para abrir o site no navegador.
 
----
-## 🔗 Contribuições:
-
-1. Faça o fork do projeto:
-```bash
-https://github.com/Cobrinha.git
-```
-2. Crie uma branch para sua modificação:
-```bash
-git checkout -b feature/[nome]
-```
-3. Faça o commit:
-```bash
-git commit -m'Add files [nome]'
-```
-4. Push:
-```bash
-git push origin feature/[nome]
-```
-5. Crie um novo Pull Request.
 
 ---
 ## 🔐 Licença:
