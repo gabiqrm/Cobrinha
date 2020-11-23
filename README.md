@@ -32,7 +32,7 @@ Jogo recriado utilizando as seguintes tecnologias:
 📍 CSS3
 📍 JavaScript
 
-Framework utilizado: 
+Framework Utilizado: 
 📍 Bootstrap
 ```
 ---
@@ -61,19 +61,19 @@ $ cd Cobrinha
 ---
 ## 🔗 Contribuições:
 
-1.Faça o fork do projeto:
+1. Faça o fork do projeto:
 ```bash
 https://github.com/Cobrinha.git
 ```
-2.Crie uma branch para sua modificação:
+2. Crie uma branch para sua modificação:
 ```bash
 git checkout -b feature/[nome]
 ```
-3.Faça o commit:
+3. Faça o commit:
 ```bash
 git commit -m'Add files [nome]'
 ```
-4.Push:
+4. Push:
 ```bash
 git push origin feature/[nome]
 ```
