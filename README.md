@@ -13,7 +13,7 @@
 
 ---
 ## 🔎 Acesso Rápido:
-https://gabiqrm.github.io/Cobrinha/
+https://collab4fun.github.io/Cobrinha/
 
 ---
 
