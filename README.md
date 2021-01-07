@@ -2,10 +2,6 @@
 ---
 
 <p align="center">
-   <img src="public/image/logo.jpg" alt="SnakeGame"/>
-</p>
-
-<p align="center">
   <img src="public/image/logo.jpg" alt="SnakeGame"/>
   <br>
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/Collab4Fun/Cobrinha">
