@@ -5,11 +5,22 @@
    <img src="public/image/logo.jpg" alt="SnakeGame"/>
 </p>
 
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/Collab4Fun/Cobrinha)](https://github.com/Collab4Fun/Cobrinha)<space> <space>[![GitHub license](https://img.shields.io/github/license/Collab4Fun/Cobrinha)](https://github.com/Collab4Fun/Cobrinha/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/Collab4Fun/Cobrinha)](https://github.com/Collab4Fun/Cobrinha)
-
-</div>
+<p align="center">
+  <img src="public/image/logo.jpg" alt="SnakeGame"/>
+  <br>
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/Collab4Fun/Cobrinha">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Collab4Fun/Cobrinha">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Collab4Fun/Cobrinha">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <br>
+  <a href="#mag_right-acesso-rápido">Acesso Rápido</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#clipboard-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#gear-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#wrench-melhorias">Melhorias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#floppy_disk-execução">Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#closed_lock_with_key-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#woman-desenvolvedora">Desenvolvedora</a>
+</p>
 
 ---
 ## :mag_right: Acesso Rápido:
