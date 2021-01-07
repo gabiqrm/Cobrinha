@@ -60,4 +60,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## :woman: Desenvolvedora:
 
-Desenvolvido por Gabriela Queiroz ! :purple_heart:
+Desenvolvido por [Gabriela Queiroz](https://github.com/gabiqrm)! :purple_heart:
