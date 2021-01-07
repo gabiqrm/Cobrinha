@@ -33,13 +33,11 @@ Jogo recriado utilizando as seguintes ferramentas:
 
 ## 🔧 Melhorias:
 
-```
 - Implementado os níveis de dificuldade;
 - Pontuação do Jogador;
 - Corrigido o bug que fazia a cobra sumir;
 -  instruções de jogo;
 - Estilização do site.
-```
 
 ---
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução:
