@@ -1,4 +1,4 @@
-# Jogo da Cobrinha :snake:
+<h1 align="center"> :snake: Jogo da Cobrinha :snake: </h1>
 ---
 
 <p align="center">
