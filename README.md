@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/gabiqrm/Cobrinha)](https://github.com/gabiqrm/Cobrinha)<space> <space>[![GitHub license](https://img.shields.io/github/license/gabiqrm/Cobrinha)](https://github.com/gabiqrm/Cobrinha/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/gabiqrm/Cobrinha)](https://github.com/gabiqrm/Cobrinha/)
+[![GitHub stars](https://img.shields.io/github/stars/Collab4Fun/Cobrinha)](https://github.com/Collab4Fun/Cobrinha)<space> <space>[![GitHub license](https://img.shields.io/github/license/Collab4Fun/Cobrinha)](https://github.com/Collab4Fun/Cobrinha/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/Collab4Fun/Cobrinha)](https://github.com/Collab4Fun/Cobrinha)
 
 </div>
 
