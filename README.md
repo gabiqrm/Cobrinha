@@ -24,24 +24,20 @@ Jogo da cobrinha (Snake Game) durante o desafio *Code Like a FullStack Girl* da 
 ---
 ## ⚙️ Tecnologias:
 
-Jogo recriado utilizando as seguintes tecnologias:
+Jogo recriado utilizando as seguintes ferramentas:
 
-```bash
-📍 HTML5
-📍 CSS3
-📍 JavaScript
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
 
-Framework Utilizado: 
-📍 Bootstrap
-```
----
 ## 🔧 Melhorias:
 
 ```
 - Implementado os níveis de dificuldade;
 - Pontuação do Jogador;
 - Corrigido o bug que fazia a cobra sumir;
-- As instruções de jogo;
+-  instruções de jogo;
 - Estilização do site.
 ```
 
