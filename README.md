@@ -43,7 +43,7 @@ Jogo recriado utilizando as seguintes ferramentas:
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução:
 1. Clonar via prompt de comando o projeto em uma pasta de sua preferência:
 ```bash
-$ git clone https://github.com/gabiqrm/Cobrinha.git
+$ git clone https://github.com/Collab4Fun/Cobrinha.git
 ```
 2. Acessar a pasta principal do projeto via prompt de comando. Ex.:
 ```bash
