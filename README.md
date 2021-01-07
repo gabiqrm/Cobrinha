@@ -18,7 +18,7 @@
 
 ## :clipboard: Sobre:
 
-Jogo da cobrinha (Snake Game) desenvolvido durante o desafio *Code Like a FullStack Girl* da [Digital Innovation One](https://web.digitalinnovation.one/home). A nossa instrutora foi a [Gabriela Pinheiro](https://github.com/SpruceGabriela). Você pode jogar clicando no botão abaixo:
+Jogo da cobrinha (*Snake Game*) desenvolvido durante o desafio *Code Like a FullStack Girl* da [Digital Innovation One](https://web.digitalinnovation.one/home). A nossa instrutora foi a [Gabriela Pinheiro](https://github.com/SpruceGabriela). Você pode jogar clicando no botão abaixo:
 <p align="center">
 <a href="https://collab4fun.github.io/Cobrinha/"><img alt ="deploy shield" src="https://img.shields.io/badge/%F0%9F%99%82%EF%B8%8F-Jogar!-40BA12.svg" height="35px"></a>
 </p>
