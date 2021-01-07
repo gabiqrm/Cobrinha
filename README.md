@@ -12,17 +12,17 @@
 </div>
 
 ---
-## 🔎 Acesso Rápido:
+## :mag_right: Acesso Rápido:
 https://collab4fun.github.io/Cobrinha/
 
 ---
 
-## 📋 Sobre:
+## :clipboard: Sobre:
 
 Jogo da cobrinha (Snake Game) durante o desafio *Code Like a FullStack Girl* da [Digital Innovation One](https://web.digitalinnovation.one/home). A nossa instrutora foi a [Gabriela Pinheiro](https://github.com/SpruceGabriela).
 
 ---
-## ⚙️ Tecnologias:
+## :gear: Tecnologias:
 
 Jogo recriado utilizando as seguintes ferramentas:
 
@@ -31,12 +31,12 @@ Jogo recriado utilizando as seguintes ferramentas:
 - JavaScript
 - Bootstrap
 
-## 🔧 Melhorias:
+## :wrench: Melhorias:
 
 - Implementado os níveis de dificuldade;
 - Pontuação do Jogador;
 - Corrigido o bug que fazia a cobra sumir;
--  instruções de jogo;
+- Instruções de jogo;
 - Estilização do site.
 
 ---
@@ -53,11 +53,11 @@ $ cd Cobrinha
 
 
 ---
-## 🔐 Licença:
+## :closed_lock_with_key: Licença:
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-## 👩🏻‍💻 Desenvolvedora:
+## :woman: Desenvolvedora:
 
-Desenvolvido por Gabriela Queiroz ! 💜
+Desenvolvido por Gabriela Queiroz ! :purple_heart:
