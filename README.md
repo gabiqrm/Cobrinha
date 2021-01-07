@@ -1,4 +1,4 @@
-# Snake Game 🐍
+# Jogo da Cobrinha :snake:
 ---
 
 <p align="center">
