@@ -20,7 +20,6 @@
 ## :mag_right: Acesso Rápido:
 https://collab4fun.github.io/Cobrinha/
 
-
 ## :clipboard: Sobre:
 
 Jogo da cobrinha (Snake Game) desenvolvido durante o desafio *Code Like a FullStack Girl* da [Digital Innovation One](https://web.digitalinnovation.one/home). A nossa instrutora foi a [Gabriela Pinheiro](https://github.com/SpruceGabriela).
@@ -43,6 +42,7 @@ Jogo recriado utilizando as seguintes ferramentas:
 - Estilização do site.
 
 ## :floppy_disk: Execução:
+
 1. Clonar via prompt de comando o projeto em uma pasta de sua preferência:
 ```bash
 $ git clone https://github.com/Collab4Fun/Cobrinha.git
@@ -54,6 +54,7 @@ $ cd Cobrinha
 3. Na pasta raiz, dê duplo clique no arquivo `index.html` para abrir o site no navegador.
 
 ## :closed_lock_with_key: Licença:
+
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## :woman: Desenvolvedora:
