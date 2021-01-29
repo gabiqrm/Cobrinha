@@ -3,9 +3,9 @@
 <p align="center">
   <img src="public/image/logo.jpg" alt="SnakeGame"/>
   <br>
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/Collab4Fun/Cobrinha">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Collab4Fun/Cobrinha">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Collab4Fun/Cobrinha">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/gabiqrm/Cobrinha">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabiqrm/Cobrinha">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabiqrm/Cobrinha">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
   <br>
   <a href="#clipboard-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -44,7 +44,7 @@ Jogo recriado utilizando as seguintes ferramentas:
 
 1. Clonar via prompt de comando o projeto em uma pasta de sua preferência:
 ```bash
-$ git clone https://github.com/Collab4Fun/Cobrinha.git
+$ git clone https://github.com/gabiqrm/Cobrinha.git
 ```
 2. Acessar a pasta principal do projeto via prompt de comando. Ex.:
 ```bash
